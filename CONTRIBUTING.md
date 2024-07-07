@@ -1,6 +1,6 @@
-# Contributing to Logicytics
+# Contributing to CHANGE-ME
 
-Looking to contribute something to Logicytics? **Here's how you can help.**
+Looking to contribute something to CHANGE-ME? **Here's how you can help.**
 
 Please take a moment to review this document to make the contribution
 process easy and effective for everyone involved.
@@ -13,7 +13,7 @@ patches and features.
 
 ## Using the issue tracker
 
-The [issue tracker](https://github.com/DefinetlyNotAI/Logicytics/issues) is
+The [issue tracker](https://github.com/DefinetlyNotAI/CHANGE-ME/issues) is
 the preferred channel for bug reports and features requests
 and submitting pull requests, but please respect the following
 restrictions:
@@ -47,20 +47,20 @@ leave the Explain.md file and the updating of the structure file to me.
 
 ## Guidelines for Modifications 📃
 
-When making modifications to the Logicytics project,
+When making modifications to the CHANGE-ME project,
 please adhere to the following guidelines to ensure consistency and maintainability:
 
 ### Basic Check Functions
 
-- **Limitations on Modifications**: Avoid making extreme modifications to the basic check functions in the `Logicytics.py` file. Specifically, refrain from altering the fundamental operations related to flags and file access mechanisms.
+- **Limitations on Modifications**: CHANGE ME
 
-- **Restrictions**: Do not remove core features and program files, especially example files like `CEC` or code in the `sys` or `local_libraries` directories
+- **Restrictions**: CHANGE ME
 
 ### Documentation and Credit
 
 - **Comments and Docstrings**: Ensure that all additions and modifications are well-documented through comments and docstrings. Your contributions should be easy to understand and use, adhering to proper programming etiquette.
   
-- **Credit**: Properly credit your work in the `CREDIT.md` file, following the credit rules outlined in the project's [wiki](https://github.com/DefinetlyNotAI/Logicytics/wiki/2-‐-Contribution-Guidelines#credits). Include your name and a brief description of your contributions under the appropriate section.
+- **Credit**: Properly credit your work in the `CREDIT.md` file, following basic credit rules. Include your name and a brief description of your contributions under the appropriate section.
 
 ### Debugging and Proof of Work
 
@@ -70,31 +70,21 @@ please adhere to the following guidelines to ensure consistency and maintainabil
 
 ### Adding Features
 
-- **New Files for New Features**: When adding new features, create a separate file for each feature. Each new file must contain at least one function and adhere to the project's print rules as specified in the [Wiki](https://github.com/DefinetlyNotAI/Logicytics/wiki/2-‐-Contribution-Guidelines#printing-rules). While any programming language may be used, adherence to the [wiki's](https://github.com/DefinetlyNotAI/Logicytics/wiki/2-‐-Contribution-Guidelines) guidelines is mandatory.
-  
-- **Integration**: Do not integrate new features directly into the `Logicytics.py` file, neither to the local `Flags_Lists.py` library. Leave the integration process to the project maintainers to ensure cohesive project structure.
-
 - **Root Folders**: Refrain from modifying root folders such as `.github` or `.git`. Maintain the integrity of the project's directory structure.
 
 ### Dependencies
 
-- **Requirement File**: Any new libraries introduced as part of your contributions should be listed in the `requirements.txt` file. This ensures that the project's dependencies are accurately tracked and managed.
+- **Requirement File**: CHANGE ME
 
 ### Must Do's
 
-- **Final Steps**: Ensure that you have run `Logicytics.py --dev` and completed all steps required given to you
-
-- **CREDIT.md**: Ensure that the `CREDIT.md` file has been properly updated. We respect the credit guidelines in the project's [wiki](https://github.com/DefinetlyNotAI/Logicytics/wiki/2-‐-Contribution-Guidelines#credits).
-
-- **WiKi**: Ensure that you have followed the project's structure guidelines found in the [Wiki](https://github.com/DefinetlyNotAI/Logicytics/wiki).
-
-- **ReadMe**: When modifying specific code in special directories/subdirectories, read their `ReadMe.md` files
-
+- **Final Steps**: CHANGE ME
+  
 ## Issues and labels 🛠️
 
 Our bug tracker utilizes several labels to help organize and identify issues.
 
-For a complete look at our labels, see the [project labels page](https://github.com/DefinetlyNotAI/Logicytics/labels).
+For a complete look at our labels, see the [project labels page](https://github.com/YOUR_USERNAME/CHANGE-ME/labels).
 
 
 ## Bug reports 🐛
@@ -154,14 +144,14 @@ project (indentation, accurate comments, etc.) and any other requirements
 View the WiKi for more information on how to write pull requests.
 
 **IMPORTANT**: By submitting a patch, you agree to allow the project owners to
-license your work under the terms of the [MIT License](https://github.com/DefinetlyNotAI/Logicytics/blob/main/LICENSE) (if it
+license your work under the terms of the [MIT License](https://github.com/YOUR_USERNAME/CHANGE-ME/blob/main/LICENSE) (if it
 includes code changes) and under the terms of the
 [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
 
 
 ## License 📝
 
-By contributing your code, you agree to license your contribution under the [MIT License](https://github.com/DefinetlyNotAI/Logicytics/blob/main/LICENSE).
+By contributing your code, you agree to license your contribution under the [MIT License](https://github.com/YOUR_USERNAME/CHANGE-ME/blob/main/LICENSE).
 By contributing to the documentation, you agree to license your contribution under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
 
 
