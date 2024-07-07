@@ -13,7 +13,7 @@ patches and features.
 
 ## Using the issue tracker
 
-The [issue tracker](https://github.com/DefinetlyNotAI/CHANGE-ME/issues) is
+The [issue tracker](https://github.com/YOUR_USERNAME/CHANGE-ME/issues) is
 the preferred channel for bug reports and features requests
 and submitting pull requests, but please respect the following
 restrictions:
