@@ -160,6 +160,6 @@ By contributing to the documentation, you agree to license your contribution und
 - **Issues**: Use GitHub issues for bug reports and feature requests. Keep the discussion focused and relevant.
 - **Pull Requests**: Use pull requests to propose changes. Be prepared to discuss your changes and address any feedback.
 
-If you have any questions or need further clarification, please feel free to contact us at Nirt_12023@outlook.com.
+If you have any questions or need further clarification, please feel free to contact us at YOUR_EMAIL.
 
 Thank you for your contributions!
