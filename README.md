@@ -26,7 +26,7 @@ Ensure your system meets these requirements:
 - CHANGE_ME.
 - CHANGE_ME.
 - CHANGE_ME.
-
+- CHANGE_ME.
 
 ### Step-by-Step Installation
 
