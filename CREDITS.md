@@ -4,29 +4,29 @@ This project is built on the shoulders of giants and inspired by the work of man
 
 ## ❤️ Sponsors Credits ❤️
 
-CHANGE ME
+Until now, Nobody
 
 ## 👨‍💻 Coders Credits 👨‍💻
 
-CHANGE ME
+Until now, Nobody
 
 ## 🛠️ Refactorers Credits 🛠️
 
-CHANGE ME
+Until now, Nobody
 
 ## 🔨 Enhancers Credits 🔨
 
-CHANGE ME
+Until now, Nobody
 
 ## 🐛 Bug bounty credits 🐛
 
-CHANGE ME
+Until now, Nobody
 
 
 
 ## 🏢 Third Party Credits 🏢
 
-CHANGE ME
+Until now, Nobody
 
 # Acknowledgments
 

@@ -13,7 +13,7 @@ patches and features.
 
 ## Using the issue tracker
 
-The [issue tracker](https://github.com/YOUR_USERNAME/CHANGE-ME/issues) is
+The [issue tracker](https://github.com/DefinetlyNotAI/CHANGE-ME/issues) is
 the preferred channel for bug reports and features requests
 and submitting pull requests, but please respect the following
 restrictions:
@@ -84,7 +84,7 @@ please adhere to the following guidelines to ensure consistency and maintainabil
 
 Our bug tracker utilizes several labels to help organize and identify issues.
 
-For a complete look at our labels, see the [project labels page](https://github.com/YOUR_USERNAME/CHANGE-ME/labels).
+For a complete look at our labels, see the [project labels page](https://github.com/DefinetlyNotAI/CHANGE-ME/labels).
 
 
 ## Bug reports 🐛
@@ -144,14 +144,14 @@ project (indentation, accurate comments, etc.) and any other requirements
 View the WiKi for more information on how to write pull requests.
 
 **IMPORTANT**: By submitting a patch, you agree to allow the project owners to
-license your work under the terms of the [MIT License](https://github.com/YOUR_USERNAME/CHANGE-ME/blob/main/LICENSE) (if it
+license your work under the terms of the [MIT License](https://github.com/DefinetlyNotAI/CHANGE-ME/blob/main/LICENSE) (if it
 includes code changes) and under the terms of the
 [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
 
 
 ## License 📝
 
-By contributing your code, you agree to license your contribution under the [MIT License](https://github.com/YOUR_USERNAME/CHANGE-ME/blob/main/LICENSE).
+By contributing your code, you agree to license your contribution under the [MIT License](https://github.com/DefinetlyNotAI/CHANGE-ME/blob/main/LICENSE).
 By contributing to the documentation, you agree to license your contribution under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
 
 
@@ -160,6 +160,6 @@ By contributing to the documentation, you agree to license your contribution und
 - **Issues**: Use GitHub issues for bug reports and feature requests. Keep the discussion focused and relevant.
 - **Pull Requests**: Use pull requests to propose changes. Be prepared to discuss your changes and address any feedback.
 
-If you have any questions or need further clarification, please feel free to contact us at YOUR_EMAIL.
+If you have any questions or need further clarification, please feel free to contact us at Nirt_12023@outlook.com.
 
 Thank you for your contributions!
